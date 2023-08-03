@@ -1,0 +1,11 @@
+node_modules/
+frontend/node_modules/
+dist/
+*.log
+.vscode/
+.idea/
+*.iml
+.idea/
+.idea_modules/
+package-lock.json
+yarn.lock
