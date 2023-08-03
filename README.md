@@ -60,3 +60,4 @@ To run this application, you need to have Node.js and npm (Node Package Manager)
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
